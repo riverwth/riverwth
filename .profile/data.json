@@ -1,5 +1,5 @@
 {
- "key": "d3048bb2",
+ "key": "33cd9a11",
  "stars": 0,
  "contributions": 19,
  "repos": 1,
@@ -104,9 +104,13 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
